@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0c387e9.css",
+    "main.js": "/static/js/main.61a9a633.js",
+    "static/media/SourceSerif4Caption-Bold.ttf": "/static/media/SourceSerif4Caption-Bold.19ac9fa2ba60cb6ee985.ttf",
+    "static/media/Montserrat-Italic.ttf": "/static/media/Montserrat-Italic.e7728c27ba36b97eb82f.ttf",
+    "static/media/SourceSerif4Caption-Regular.ttf": "/static/media/SourceSerif4Caption-Regular.e10ff29eb7ab31d94189.ttf",
+    "static/media/Montserrat-LightItalic.ttf": "/static/media/Montserrat-LightItalic.d79f80a4862fa88db7c2.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.57cd57a648021fa1c396.ttf",
+    "static/media/Video-Regular.ttf": "/static/media/Video-Regular.f8e79a5e1ecee63e8cc6.ttf",
+    "static/media/k4.webp": "/static/media/k4.ee23e0b9d5563daed50f.webp",
+    "static/media/k3.webp": "/static/media/k3.f69a9fbcc6722c41c2d7.webp",
+    "static/media/m1.webp": "/static/media/m1.3adc3b78806586b653c0.webp",
+    "static/media/k7.webp": "/static/media/k7.30acc8a1b408a7f666fe.webp",
+    "static/media/k5.webp": "/static/media/k5.f716d718760c390037df.webp",
+    "static/media/m2.webp": "/static/media/m2.7f38d74dbd66dc0b548a.webp",
+    "static/media/m3.webp": "/static/media/m3.39d3212302e2a8cf1562.webp",
+    "static/media/k6.webp": "/static/media/k6.5f3e38189c79d6f4cfc9.webp",
+    "static/media/k8.webp": "/static/media/k8.d6ac2e0d18f0d3217576.webp",
+    "static/media/k2.webp": "/static/media/k2.87373b5a43bbab333d40.webp",
+    "static/media/k1.webp": "/static/media/k1.d4c3934e0932190320a9.webp",
+    "static/media/m5.webp": "/static/media/m5.72844a206d48c09e8005.webp",
+    "static/media/m4.webp": "/static/media/m4.85751dc36b2589521bc7.webp",
+    "static/media/m6.webp": "/static/media/m6.9a9f776b6bf90e48b730.webp",
+    "static/media/m7.webp": "/static/media/m7.43a6350853ace6bf050c.webp",
+    "static/media/phone.svg": "/static/media/phone.6d64b887f812adf1848df7118bd0b9c3.svg",
+    "index.html": "/index.html",
+    "static/media/login.svg": "/static/media/login.01ce8d9421f7120bad548895ac75bbb5.svg",
+    "main.a0c387e9.css.map": "/static/css/main.a0c387e9.css.map",
+    "main.61a9a633.js.map": "/static/js/main.61a9a633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c387e9.css",
+    "static/js/main.61a9a633.js"
+  ]
+}
